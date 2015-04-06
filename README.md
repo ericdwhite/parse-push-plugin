@@ -26,8 +26,8 @@ Installation
 Pick one of these two commands:
 
 ```
-phonegap local plugin add https://github.com/cookys/parse-push-plugin
-cordova plugin add https://github.com/cookys/parse-push-plugin
+phonegap local plugin add https://github.com/ericdwhite/parse-push-plugin
+cordova plugin add https://github.com/ericdwhite/parse-push-plugin
 ```
 
 ####Android devices
